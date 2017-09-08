@@ -1,0 +1,3 @@
+Smart digital note taker
+
+As the user highlights or selects text in a document, it consolidates the content and intelligently partitions into logical hierarchies(using the parent documents' parsing and sparse inputs from user ) and produces a condensed doc with all info one wants to take away. 
